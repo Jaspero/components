@@ -2,7 +2,7 @@ class AnyClass implements OnInit {
   name: string;
   constructor() {
     console.log('Constructor');
-    this.name = 'User';
+    this.name = 'Bok';
   }
   
   ngOnInit() {
